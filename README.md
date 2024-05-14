@@ -1,6 +1,7 @@
 # CAD-Project
 Collective Repo for all projects under Cloud Application Development.
-<br>To access the working project , goto the "projects" section in the main branch .
+<br>To access the working project , goto the "projects" section in the main branch , Afterwards access the "Blog_page" folder where the respective node files are placed .
+<br>Run the Node Commands In-Order to preview the project.
 
 Projects :
 <br>(1)Data Backend Using SQL 
