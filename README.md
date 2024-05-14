@@ -1,10 +1,10 @@
 # CAD-Project
 Collective Repo for all projects under Cloud Application Development.
-To access the working project , goto the "projects" <br> section in the main branch .
-<br>
+<br>To access the working project , goto the "projects" section in the main branch .
+
 Projects :
-(1)Data Backend Using SQL 
-(2)Calci
-(3)Project Portfolio Web Page
+<br>(1)Data Backend Using SQL 
+<br>(2)Calci
+<br>(3)Project Portfolio Web Page
 
 All these projects are curated together in a Web Based format . 
